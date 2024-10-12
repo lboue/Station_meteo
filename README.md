@@ -19,7 +19,7 @@ Ce montage permet de mesurer la vitesse du vent :
 Programmer l'ESP32 pour lire le registre ModBus de l'anémomètre: 
 * Tutoriel configuration ESPHome: [Renke RS-FSJT-N01 Wind speed anemometer](https://devices.esphome.io/devices/Renke-RS-FSJT-N01-Wind-Speed)
 
-## Cablage du capteur
+## Câblage du capteur
 
 Le câble qui sort de la partie inférieure de l'anémomètre a le brochage suivant :
 * Marron : +12V
