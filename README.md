@@ -30,8 +30,7 @@ Programmer l'ESP32 pour lire le registre ModBus de l'anémomètre:
 
 **Page ESPHome**
 
-
-![image](https://github.com/user-attachments/assets/d945c143-ac2f-4a8c-ac80-683947c04954)
+![image](https://github.com/user-attachments/assets/32f041f8-9840-48e7-a176-053b263dffbb)
 
 **Journal ESPHome**
 
