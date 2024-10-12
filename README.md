@@ -12,12 +12,6 @@ Ce montage permet de mesurer la vitesse du vent :
   * Documentation technique: [RS-FSJT-N01Wind speedtransmitteruser's Guide](https://instrucenter.com/wp-content/uploads/2022/03/RS-FSJT-No1.pdf)
 * [Kit de développement miniature M5 Atom RS485](https://www.gotronic.fr/art-kit-atom-rs485-k045-32911.htm)
 
-## Programmation
-
-### ESPHome
-
-Programmer l'ESP32 pour lire le registre ModBus de l'anémomètre: 
-* Tutoriel configuration ESPHome: [Renke RS-FSJT-N01 Wind speed anemometer](https://devices.esphome.io/devices/Renke-RS-FSJT-N01-Wind-Speed)
 
 ## Câblage du capteur
 
@@ -26,3 +20,13 @@ Le câble qui sort de la partie inférieure de l'anémomètre a le brochage suiv
 * Noir : Masse
 * Vert : RS485-A
 * Bleu : RS485-B
+
+## Programmation
+
+### ESPHome
+
+Programmer l'ESP32 pour lire le registre ModBus de l'anémomètre: 
+* Tutoriel configuration ESPHome: [Renke RS-FSJT-N01 Wind speed anemometer](https://devices.esphome.io/devices/Renke-RS-FSJT-N01-Wind-Speed)
+
+
+![image](https://github.com/user-attachments/assets/d50ee223-b9f6-4989-95f6-8c5c9a81cdbf)
