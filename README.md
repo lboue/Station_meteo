@@ -35,6 +35,7 @@ Programmer l'ESP32 pour lire le registre ModBus de l'anémomètre:
 
 **Journal ESPHome**
 
-La valeur indiquée par le capteur est en m/s * 10
+* La valeur indiquée par le capteur est en m/s * 10
+* Il est possible de convertir en km/h avec un facteur 3,6
 
 ![image](https://github.com/user-attachments/assets/d50ee223-b9f6-4989-95f6-8c5c9a81cdbf)
