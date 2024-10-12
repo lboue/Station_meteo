@@ -27,6 +27,7 @@ Le câble qui sort de la partie inférieure de l'anémomètre a le brochage suiv
 
 Programmer l'ESP32 pour lire le registre ModBus de l'anémomètre: 
 * Tutoriel configuration ESPHome: [Renke RS-FSJT-N01 Wind speed anemometer](https://devices.esphome.io/devices/Renke-RS-FSJT-N01-Wind-Speed)
+* Ficher de configuration ESPHome : [anemometre.yaml](/ESPHome/anemometre.yaml)
 
 **Page ESPHome**
 
