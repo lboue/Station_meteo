@@ -9,7 +9,7 @@ Ce montage permet de mesurer la vitesse du vent :
 ## Matériel
 
 * [Capteur anémomètre extérieur RS485](https://www.aliexpress.com/item/1005005698076731.html)
-* Documentation technique: [RS-FSJT-N01Wind speedtransmitteruser's Guide](https://instrucenter.com/wp-content/uploads/2022/03/RS-FSJT-No1.pdf)
+  * Documentation technique: [RS-FSJT-N01Wind speedtransmitteruser's Guide](https://instrucenter.com/wp-content/uploads/2022/03/RS-FSJT-No1.pdf)
 * [Kit de développement miniature M5 Atom RS485](https://www.gotronic.fr/art-kit-atom-rs485-k045-32911.htm)
 
 ## Programmation
