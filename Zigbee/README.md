@@ -7,3 +7,7 @@
 * Create a standard wind speed measurement cluster attribute list:
   * [esp_zigbee_cluster.h](https://github.com/espressif/esp-zigbee-sdk/blob/main/components/esp-zigbee-lib/include/esp_zigbee_cluster.h#L416-L424)
   * [esp_zigbee_zcl_wind_speed_measurement.h](https://github.com/espressif/esp-zigbee-sdk/blob/main/components/esp-zigbee-lib/include/zcl/esp_zigbee_zcl_wind_speed_measurement.h)
+
+## Arduino Zigbee
+
+* [Zigbee Wind speed sensor example](https://github.com/espressif/arduino-esp32/pull/10455)
